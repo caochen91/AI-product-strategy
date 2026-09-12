@@ -21,10 +21,10 @@
 
 **What we're building, for whom, why now.**
 
-- **Product:**
-- **AI Value Archetype:**
-- **Vulnerability Scores:** Moat __/5 · Data __/5 · Platform __/5
-- **Top Risk:**
+- **Product:** AI copilot for industrial/PLC programming (Siemens TIA Portal, Rockwell Studio 5000, CODESYS)
+- **AI Value Archetype:** Copilot
+- **Vulnerability Scores:** Moat 4/5 · Data 3/5 · Platform 4/5 (11/15 — Moderate)
+- **Top Risk:** Data Advantage — OpenPLC could exploit the lack of proprietary plant/telemetry data
 - **Confidence:** H / M / L
 - **Prototype:** [link]
 - **Kill Criteria:**
