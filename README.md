@@ -23,8 +23,8 @@
 
 - **Product:** AI copilot for industrial/PLC programming (Siemens TIA Portal, Rockwell Studio 5000, CODESYS)
 - **AI Value Archetype:** Copilot
-- **Vulnerability Scores:** Moat 4/5 · Data 3/5 · Platform 4/5 (11/15 — Moderate)
-- **Top Risk:** Data Advantage — OpenPLC could exploit the lack of proprietary plant/telemetry data
+- **Vulnerability Scores:** Moat 2/5 · Data 2/5 · Platform 1/5 (5/15 — Weak)
+- **Top Risk:** Platform Exposure — Siemens and Rockwell have already shipped native AI copilots into TIA Portal and Studio 5000
 - **Confidence:** H / M / L
 - **Prototype:** [link]
 - **Kill Criteria:**
